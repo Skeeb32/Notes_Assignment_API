@@ -1,0 +1,15 @@
+{
+  "name": "notes_assignment",
+  "version": "1.0.0",
+  "main": "apps.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jacob Spooner, Shaqib Habib",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "yargs": "^17.3.0"
+  },
+  "description": ""
+}
